@@ -1,3 +1,3 @@
 # **Data Science Portfolio**
 
-![Portfolio Bild](../images/portfolio_wallpaper.png.webp "Mein Portfolio")
+![Portfolio Bild](../images/portfolio_wallpaper.png.webp.png "Mein Portfolio")
