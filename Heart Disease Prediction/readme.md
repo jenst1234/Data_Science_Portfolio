@@ -1,10 +1,10 @@
 # **Heart Disease Prediction Project Overview**
 
-<img src="./images/heart_disease.png" alt="Alt-Text" width="100%" height="300px" />
+<img src="./images/heart_disease.png" alt="Alt-Text" width="100%" height="400px" />
 
 [![Data-Science-Projects](https://img.shields.io/badge/Data_Science_Projects-GitHub_Page-%2300BFFF.svg)](https://jenst1234.github.io)
 
-## **Motivation**
+## **Introduction**
 
 Heart disease is a leading global health concern. Early detection and risk assessment are crucial for preventative measures. This project explores the potential of machine learning to predict an individual's risk of heart disease.
 
@@ -12,7 +12,7 @@ Heart disease is a leading global health concern. Early detection and risk asses
 
 The project utilizes a dataset from the UCI Machine Learning Repository (Cleveland database). This dataset contains information for 303 individuals, with 14 features encompassing:
 
- **Biometric data** Age, blood pressure, cholesterol levels, resting heart rate
+- **Biometric data:** Age, blood pressure, cholesterol levels, resting heart rate
 - **Lifestyle factors:** Chest pain type
 - **Medical history:** ST-segment depression, number of major vessels
 The target variable is the presence or absence of heart disease.
