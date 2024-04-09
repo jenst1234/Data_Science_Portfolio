@@ -1,5 +1,9 @@
 # Predicting CO2 Emissions by Vehicles
 
+<img src="co2_emissions.png" alt="Alt-Text" width="100%" height="400px" />
+
+[![Data-Science-Projects](https://img.shields.io/badge/Data_Science_Projects-GitHub_Page-%2300BFFF.svg)](https://jenst1234.github.io)
+
 ## Overview
 
 At a time when climate change and sustainability are at the forefront of global discussions, our "Predicting CO2 Emissions by Vehicles" project represents a crucial step towards understanding and reducing the ecological footprint of vehicles. Utilizing cutting-edge Machine Learning (ML) and Deep Learning (DL) techniques, this project aims to categorize vehicles into different energy classes and precisely predict CO2 emissions.
