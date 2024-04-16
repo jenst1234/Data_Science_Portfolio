@@ -1,6 +1,0 @@
-﻿Model;Accuracy;Mean ROC AUC (OvR);Mean F1-Score (Macro)
-RandomForest;0.97;0.9992;0.9712
-XGBoost;0.97;0.9991;0.9691
-XGBoost (Optimized);0.97;0.9464;0.8852
-DecisionTree;0.97;0.9993;0.9712
-DecisionTree (Optimized);0.97;0.9992;0.9711
