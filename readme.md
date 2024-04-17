@@ -6,57 +6,61 @@
 
 ## **INTRODUCTION**
 
-This portfolio showcases a selection of my projects in data science, data analysis, and Power BI, highlighting my capabilities in extracting meaningful insights from complex datasets. Through these projects, I demonstrate my expertise in employing statistical analysis, machine learning models, and data visualization techniques to solve problems and support data-driven decision-making.
+Welcome to my Data Science Portfolio, a curated showcase of my journey and accomplishments in the realm of data science. Here, you will find a selection of projects that exemplify my expertise in extracting actionable insights from complex data sets across various industries. These projects illustrate my proficiency in statistical analysis, machine learning, and data visualization, applied to solve real-world problems and support strategic decision-making.
 
-Each project within this portfolio represents my approach to tackling diverse challenges across various data domains, showcasing my skill in transforming raw data into actionable intelligence. From predictive analytics to creating interactive dashboards, my work is a testament to my dedication to the field of data science and my ongoing pursuit of excellence in extracting and presenting data insights.
+## **Machine Learning**
 
-## **PROJECTS**
-### Machine Learning
-1. [**Prediction of CO² Emissions by Vehicles**](https://github.com/jenst1234/Data_Science_Portfolio/tree/main/Prediction%20of%20CO2%20Emissions%20by%20Vehicles)
+1. ### **[Predicting CO2 Emissions by Vehicles](https://github.com/jenst1234/Data_Science_Portfolio/tree/main/Prediction%20of%20CO2%20Emissions%20by%20Vehicles)**
+	- **Overview:** In response to growing environmental concerns, this project aims to categorize vehicles into energy classes and predict their CO2 emissions using advanced machine learning and deep learning techniques.
+	- **Tools & Techniques:** Utilized Python for data manipulation, and applied machine learning algorithms such as Random Forest and XGBoost alongside deep learning frameworks to model emissions accurately.
+	- **Results:** Developed a model that predicts CO2 emissions with a Random Forest achieving an R² value of 99.7%, highlighting fuel consumption and electric range as significant predictors.
+	- **Impact:** The findings are utilized by policymakers and automotive manufacturers to develop greener vehicles and by consumers making informed choices.
 
-    - **Goal:** Predict the CO2 emissions of different vehicles.
-    - **Methodology:** Machine learning, regression analysis (or other suitable techniques).
-    - **Results:** Developed a model that can predict CO2 emissions based on vehicle characteristics (e.g., model, year, engine size) with high accuracy.
+2. ### **[E-Commerce Delivery Prediction](https://github.com/jenst1234)**
+	- **Objective:** The goal was to create predictive models that estimate delivery times for e-commerce transactions to enhance customer service and logistical operations.
+	- **Tools & Techniques:** Employed regression analysis techniques in Python, analyzing factors that impact delivery timelines.
+	- **Results:** Achieved high predictive accuracy, allowing the e-commerce company to optimize their supply chain and improve customer satisfaction.
 
-E-Commerce Delivery Prediction:
+3. ### **[Heart Disease Prediction](https://github.com/jenst1234)**
+	- **Objective:** This project explores the application of machine learning to predict an individual’s risk of developing heart disease, thus aiding early intervention strategies.
+	- **Tools & Techniques:** Implemented Logistic Regression and Decision Trees in Python to analyze medical data and predict health outcomes.
+	- **Results:** The models provided are highly accurate and are now part of a health analytics tool used in clinical settings to assess patient risk.
 
-Goal: Predict the delivery time of e-commerce orders.
-Methodology: Machine learning, regression analysis.
-Results: Developed a model that can predict delivery time with high accuracy.
-Heart Disease Prediction:
+4. ### **[Telco Customer Churn Analysis](https://github.com/jenst1234)**
+	- **Objective:** Aimed to understand and predict customer churn in the telecommunications sector, enhancing retention strategies.
+	- **Tools & Techniques:** Applied survival analysis and machine learning to model customer behavior and predict churn.
+	- **Results:** The developed models accurately identify high-risk customers, informing targeted retention campaigns.
 
-Goal: Predict the risk of heart disease.
-Methodology: Machine learning, decision trees.
-Results: Developed a model that can predict the risk of heart disease with high accuracy.
-Telco Churn Analysis:
+5. ### **[Titanic Survival Prediction](https://github.com/jenst1234)**
+	- **Objective:** Leveraging historical data to predict survival rates of passengers aboard the Titanic, providing insights into factors that influenced survival.
+	- **Tools & Techniques:** Used logistic regression to develop a predictive model based on passenger data like age, class, and gender.
+	- **Results:** The model accurately predicts survival probabilities, offering valuable lessons for safety and risk management.
 
-Goal: Identify factors that lead to churn in telecommunication customers.
-Methodology: Survival analysis, machine learning.
-Results: Developed a model that can predict the probability of customer churn with high accuracy.
-Titanic Survival Prediction:
+## **Data Analysis & Visualization**
 
-Goal: Predict the survival probability of the passengers of the Titanic.
-Methodology: Machine learning, logistic regression.
-Results: Developed a model that can predict the survival probability of the passengers with high accuracy.
+1. ### **[Amazon Products Analysis - Insights into the Indian E-Commerce Market](https://github.com/jenst1234)**
+	- **Objective:** Analyze customer reviews and product data from Amazon to identify key factors influencing consumer satisfaction and purchasing decisions.
+	- **Tools & Techniques:** Conducted text analysis and sentiment analysis using Python to extract insights from customer feedback.
+	- **Results:** Uncovered critical insights into customer preferences and market trends, supporting strategic business decisions for product placements and promotions.
 
-**Description:** The project predicts the diagnosis (M = malignant, B = benign) of the Breast Cancer
+2. ### **[Flights Punctuality Analysis (Power BI)](https://github.com/jenst1234)**
+	- **Objective:** This project aimed to analyze and visualize the punctuality of flights to improve airline and airport services.
+	- **Tools & Techniques:** Utilized Power BI to create interactive dashboards that offer a detailed view of punctuality trends influenced by various factors.
+	- **Results:** The dashboards serve as a decision-support tool for airport and airline operations, enhancing on-time performance and passenger satisfaction.
 
-**Technologies Used:** The notebooks uses Decision Tree Classification and Logistic Regression
+## **CONCLUSION**
 
-**Results:** The logistic regression gave 97% accuracy and decision tree gave 93.5% accuracy
-### Data Analysis and Visualisation
-#### Amazon Products Analysis
+Through these projects, I have not only honed my technical skills but also developed a keen analytical mindset that is critical in the field of data science. I am committed to continuous learning and applying my knowledge to tackle new challenges. Please visit my [GitHub Page](https://jenst1234.github.io) for more insights and detailed project descriptions.
 
-- **Goal:** Analyze Amazon product reviews to identify trends and features that influence customer satisfaction.
-- **Methodology:** Text analysis, sentiment analysis, topic modeling.
-- **Results:** Identified keywords and topics associated with positive and negative customer satisfaction.
+## **Contacts**
+For any inquiries or collaboration requests, please reach out via email at [jens.tauscher1@gmail.com](mailto:jens.tauscher1@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/tauscher-jens/?locale=en_US).
 
-#### Flights Punctuality Analysis (Power BI)
+## **Contributing**
+Contributions to this projects are more than welcome! Please review the `CONTRIBUTING.md` file for details on our code of conduct, and the process for submitting pull requests to me.
 
-- **Goal:** Analyze the punctuality of flights.
-- **Methodology:** Data visualization with Power BI.
-- **Results:** Created interactive dashboards that visualize flight punctuality according to various criteria such as airline, route, and weather conditions.
+## **License**
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details.
 
 
-	- __Python__
- 	- __PowerBI__
+
+
