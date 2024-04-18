@@ -1,5 +1,10 @@
 # Flight Punctuality Analysis - LAX Airport
 
+<img src="./images/flight_punctuality.png" alt="Alt-Text" width="100%" height="500px" />
+
+[![Data-Science-Projects](https://img.shields.io/badge/Data_Science_Projects-GitHub_Page-%2300BFFF.svg)](https://jenst1234.github.io)
+
+
 ## Project Overview
 
 The "Flight Punctuality Analysis" project provides a comprehensive analysis of flight punctuality at the Los Angeles International Airport (LAX) between 2015 and 2017. Utilizing Microsoft Power BI, flight data were visualized and analyzed to identify trends, patterns, and influencing factors on flight timeliness. This project aims to offer valuable insights into operational efficiency and potential areas for improvement to airlines, airport management, and travelers.
