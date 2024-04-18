@@ -2,7 +2,7 @@
 
 <img src="./images/wallpaper.png" alt="Alt-Text" width="100%" height="300px" />
 
-[![Data-Science-Projects](https://img.shields.io/badge/Data_Science_Projects-GitHub_Page-%2300BFFF.svg)](https://jenst1234.github.io), [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tauscher-jens/?locale=en_US)
+[![Data-Science-Projects](https://img.shields.io/badge/Data_Science_Projects-GitHub_Page-%2300BFFF.svg)](https://jenst1234.github.io)
 
 ## **INTRODUCTION**
 
