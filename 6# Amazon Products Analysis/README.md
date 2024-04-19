@@ -2,7 +2,7 @@
 
 <img src="./images/amazon.png" alt="Alt-Text" width="100%" height="400px" />
 
-[[![Data-Science-Projects](https://img.shields.io/badge/Data_Science_Projects-GitHub_Page-%2300BFFF.svg)](https://jenst1234.github.io), [![Notebooks](https://img.shields.io/badge/Notebooks-View-Green.svg)](https://github.com/jenst1234/Data_Science_Portfolio/tree/main/6%23%20Amazon%20Products%20Analysis/notebooks)
+[[![Data-Science-Projects](https://img.shields.io/badge/Data_Science_Projects-GitHub_Page-%2300BFFF.svg)](https://jenst1234.github.io) [![Notebooks](https://img.shields.io/badge/Notebooks-View-Green.svg)](https://github.com/jenst1234/Data_Science_Portfolio/tree/main/6%23%20Amazon%20Products%20Analysis/notebooks)
 
 ## **Introduction**
 This project delves into a comprehensive analysis of a dataset collected from the Indian Amazon website in 2023, aiming to unravel market dynamics, consumer behaviors, and strategic business opportunities. The primary objective was to identify the most popular product categories and brands and analyze the impact of pricing, discounts, and reviews on purchasing behavior using Matplotlib and Seaborn.
