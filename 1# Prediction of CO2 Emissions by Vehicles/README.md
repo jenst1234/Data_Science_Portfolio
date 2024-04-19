@@ -2,7 +2,7 @@
 
 <img src="./presentation/plots/co2_emissions.png" alt="Alt-Text" width="100%" height="400px" />
 
-[![Data-Science-Projects](https://img.shields.io/badge/Data_Science_Projects-GitHub_Page-%2300BFFF.svg)](https://jenst1234.github.io) [![Notebooks](https://img.shields.io/badge/Notebooks-View-Green.svg)](https://github.com/jenst1234/Data_Science_Portfolio/tree/main/1%23%20Prediction%20of%20CO2%20Emissions%20by%20Vehicles/notebooks)
+[![Data-Science-Projects](https://img.shields.io/badge/Data_Science_Projects-GitHub_Page-%2300BFFF.svg)](https://jenst1234.github.io) [![Notebooks](https://img.shields.io/badge/Notebooks-View-Green.svg)](https://github.com/jenst1234/Data_Science_Portfolio/tree/main/1%23%20Prediction%20of%20CO2%20Emissions%20by%20Vehicles/notebooks) [![Report](https://img.shields.io/badge/Report-View-Red.svg)](https://github.com/jenst1234/Data_Science_Portfolio/blob/main/1%23%20Prediction%20of%20CO2%20Emissions%20by%20Vehicles/reports/Prediction%20CO2%20emissions%20by%20vehicles.pdf))
 
 ## Overview
 
