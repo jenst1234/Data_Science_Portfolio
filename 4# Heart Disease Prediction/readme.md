@@ -2,7 +2,7 @@
 
 <img src="./images/heart_disease.png" alt="Alt-Text" width="100%" height="400px" />
 
-[![Data-Science-Projects](https://img.shields.io/badge/Data_Science_Projects-GitHub_Page-%2300BFFF.svg)](https://jenst1234.github.io), [![Notebooks](https://img.shields.io/badge/Notebooks-View-Green.svg)](https://github.com/jenst1234/Data_Science_Portfolio/blob/main/4%23%20Heart%20Disease%20Prediction/notebooks/heart_disease_prediction.ipynb)
+[![Data-Science-Projects](https://img.shields.io/badge/Data_Science_Projects-GitHub_Page-%2300BFFF.svg)](https://jenst1234.github.io) [![Notebooks](https://img.shields.io/badge/Notebooks-View-Green.svg)](https://github.com/jenst1234/Data_Science_Portfolio/blob/main/4%23%20Heart%20Disease%20Prediction/notebooks/heart_disease_prediction.ipynb)
 
 ## **Introduction**
 
