@@ -2,7 +2,7 @@
 
 <img src="./images/flight_punctuality.png" alt="Alt-Text" width="100%" height="500px" />
 
-[![Data-Science-Projects](https://img.shields.io/badge/Data_Science_Projects-GitHub_Page-%2300BFFF.svg)](https://jenst1234.github.io), [![Dashboard](https://img.shields.io/badge/Dashboard-View-Green.svg)](https://www.novypro.com/projects?Popup=memberProject&Data=1712536908775x968257226210816000)
+[![Data-Science-Projects](https://img.shields.io/badge/Data_Science_Projects-GitHub_Page-%2300BFFF.svg)](https://jenst1234.github.io) [![Dashboard](https://img.shields.io/badge/Dashboard-View-Green.svg)](https://www.novypro.com/projects?Popup=memberProject&Data=1712536908775x968257226210816000)
 
 
 ## Project Overview
