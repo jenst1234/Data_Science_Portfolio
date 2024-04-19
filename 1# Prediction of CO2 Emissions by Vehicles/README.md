@@ -10,7 +10,7 @@ At a time when climate change and sustainability are at the forefront of global 
 
 ## Data Source
 
-Our dataset, provided by the European Environment Agency (EEA) DataHub, includes detailed information on vehicle characteristics and emission figures, based on vehicles registered in France in 2021. With nearly 1.8 million observations, this dataset enables in-depth analysis and forms the basis for our predictive models.
+Our dataset, provided by the [European Environment Agency (EEA) DataHub](https://www.eea.europa.eu/en/datahub/datahubitem-view/fa8b1229-3db6-495d-b18e-9c9b3267c02b) includes detailed information on vehicle characteristics and emission figures, based on vehicles registered in France in 2021. With nearly 1.8 million observations, this dataset enables in-depth analysis and forms the basis for our predictive models.
 
 ## Objective
 
@@ -24,7 +24,7 @@ The main goal of this project is to sort vehicles into energy classes using clas
 
 ## Results
 
-Our analysis revealed that fuel consumption and electric range are the strongest predictors of CO2 emissions. By adjusting our models, we achieved highly accurate predictions, with the Random Forest model standing out with an R² value of 99.7%.
+Our analysis revealed that fuel consumption and electric range are the strongest predictors of CO2 emissions. By adjusting our models, we achieved highly accurate predictions, with the Random Forest model standing out with an **R² value of 99.7%**.
 
 In our comprehensive analysis we also investigated the impact of various vehicle features beyond fuel consumption and electric range on CO2 emissions and identified other key features such as engine power, vehicle mass, and fuel type (including petrol, diesel, and hybrid). We found that higher engine power and greater vehicle mass typically lead to increased emissions, while hybrid vehicles significantly reduce CO2 output due to their efficient use of both fuel and electric energy. Advanced modeling techniques like Random Forest and XGBoost helped us understand the importance of these features, revealing that innovations in vehicle design—particularly in reducing weight and enhancing electric energy usage—can effectively lower emissions. This holistic approach allows manufacturers to innovate, consumers to make informed decisions, and policymakers to tailor regulations that address specific aspects of vehicle technology to mitigate environmental impact.
 
