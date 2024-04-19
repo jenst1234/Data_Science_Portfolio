@@ -35,3 +35,8 @@ This project underscores the significance of data science and technology in comb
 ## Application
 
 The findings of this project can be utilized in various ways, from supporting policymakers in devising eco-friendly regulations to educating consumers about the environmental impacts of their vehicle choice. Moreover, the insights provide valuable information for automobile manufacturers seeking efficient and sustainable solutions.
+
+## Acknowledgements
+Special thanks to Maurice Wendel and Oussama Fatmi for their contributions to this project. Your support and insights were invaluable and greatly appreciated.
+
+
