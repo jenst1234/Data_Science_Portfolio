@@ -14,7 +14,7 @@ Welcome to my Data Science Portfolio, a curated showcase of my journey and accom
 	- **Overview:** In response to growing environmental concerns, this project aims to categorize vehicles into energy classes and predict their CO2 emissions using advanced machine learning and deep learning techniques.
 	- **Tools & Techniques:** Utilized Python for data manipulation, and applied machine learning algorithms such as Random Forest and XGBoost alongside deep learning frameworks to model emissions accurately.
 	- **Results:** Developed a model that predicts CO2 emissions with a Random Forest achieving an R² value of 99.7%, highlighting fuel consumption and electric range as significant predictors.
-	- **Impact:** The findings are utilized by policymakers and automotive manufacturers to develop greener vehicles and by consumers making informed choices.
+	- **Impact:** The findings could be utilized by policymakers and automotive manufacturers to develop greener vehicles and by consumers making informed choices.
 
 2. ### **[E-Commerce Delivery Prediction](https://github.com/jenst1234/Data_Science_Portfolio/tree/main/2%23%20Product%20Delivery%20Prediction)**
 	- **Objective:** The goal was to create predictive models that estimate delivery times for e-commerce transactions to enhance customer service and logistical operations.
@@ -24,7 +24,7 @@ Welcome to my Data Science Portfolio, a curated showcase of my journey and accom
 3. ### **[Heart Disease Prediction](https://github.com/jenst1234/Data_Science_Portfolio/tree/main/4%23%20Heart%20Disease%20Prediction)**
 	- **Objective:** This project explores the application of machine learning to predict an individual’s risk of developing heart disease, thus aiding early intervention strategies.
 	- **Tools & Techniques:** Implemented Logistic Regression and Decision Trees in Python to analyze medical data and predict health outcomes.
-	- **Results:** The models provided are highly accurate and are now part of a health analytics tool used in clinical settings to assess patient risk.
+	- **Results:** The models provided are highly accurate and could be part of a health analytics tool used in clinical settings to assess patient risk now.
 
 4. ### **[Telco Customer Churn Analysis](https://github.com/jenst1234/Data_Science_Portfolio/tree/main/5%23%20Telco%20Churn%20Analysis)**
 	- **Objective:** Aimed to understand and predict customer churn in the telecommunications sector, enhancing retention strategies.
@@ -56,10 +56,10 @@ Through these projects, I have not only honed my technical skills but also devel
 For any inquiries or collaboration requests, please reach out via email at [jens.tauscher1@gmail.com](mailto:jens.tauscher1@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/tauscher-jens/?locale=en_US).
 
 ## **Contributing**
-Contributions to this projects are more than welcome! Please review the `CONTRIBUTING.md` file for details on our code of conduct, and the process for submitting pull requests to me.
+Contributions to this projects are more than welcome! Please review the [CONTRIBUTING.md](https://github.com/jenst1234/Data_Science_Portfolio/blob/main/CONTRIBUTING.md) file for details on our code of conduct, and the process for submitting pull requests to me.
 
 ## **License**
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/jenst1234/Data_Science_Portfolio/blob/main/LICENSE.txt)) file for details.
 
 
 
