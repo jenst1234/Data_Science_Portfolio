@@ -2,7 +2,8 @@
 
 <img src="./images/titanic.png" alt="Alt-Text" width="100%" height="400px" />
 
-[![Data Science Projects](https://img.shields.io/badge/Data_Science_Projects-GitHub_Page-%2300BFFF.svg)](https://jenst1234.github.io)
+[![Data-Science-Projects](https://img.shields.io/badge/Data_Science_Projects-GitHub_Page-%2300BFFF.svg)](https://jenst1234.github.io), [![Notebooks](https://img.shields.io/badge/Notebooks-View-Green.svg)](https://github.com/jenst1234/Data_Science_Portfolio/blob/main/2%23%20Product%20Delivery%20Prediction/notebooks/e_commerce.ipynb)
+
 
 ## **Project Background**
 The sinking of the Titanic in April 1912 remains one of the most infamous disasters in maritime history. On her maiden voyage, the Titanic collided with an iceberg, leading to the loss of over 1500 lives. This project employs machine learning to analyze and predict which passengers might have survived based on various attributes such as age, gender, ticket class, and more.
@@ -14,7 +15,7 @@ The main goal of this project is to develop predictive models that can effective
 - **Feature Utilization**: Analyzing how different features, especially transformed age groups, affect predictions and potentially inform future safety planning and risk assessment.
 
 ## **About Data**
-The data used comes from the well-known Titanic dataset available on Kaggle, which includes passenger information as described in the data dictionary below:
+The data used comes from the well-known Titanic dataset available on [Kaggle](https://www.kaggle.com/competitions/titanic), which includes passenger information as described in the data dictionary below:
 
 | Variable    | Definition                                     | Key                                            |
 |-------------|------------------------------------------------|------------------------------------------------|
