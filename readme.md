@@ -16,7 +16,7 @@ Welcome to my Data Science Portfolio, a curated showcase of my journey and accom
 	- **Results:** Developed a model that predicts CO2 emissions with a Random Forest achieving an R² value of 99.7%, highlighting fuel consumption and electric range as significant predictors.
 	- **Impact:** The findings could be utilized by policymakers and automotive manufacturers to develop greener vehicles and by consumers making informed choices.
 
-2. ### **[E-Commerce Delivery Prediction](https://github.com/jenst1234/Data_Science_Portfolio/tree/main/2%23%20Product%20Delivery%20Prediction)**
+2. ### **[Product Delivery Prediction](https://github.com/jenst1234/Data_Science_Portfolio/tree/main/2%23%20Product%20Delivery%20Prediction)**
 	- **Objective:** The goal was to create predictive models that estimate delivery times for e-commerce transactions to enhance customer service and logistical operations.
 	- **Tools & Techniques:** Employed regression analysis techniques in Python, analyzing factors that impact delivery timelines.
 	- **Results:** Achieved high predictive accuracy, allowing the e-commerce company to optimize their supply chain and improve customer satisfaction.
