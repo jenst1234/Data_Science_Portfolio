@@ -48,7 +48,7 @@ The data used comes from the well-known Titanic dataset available on [Kaggle](ht
 
 ## **Results**
 - **XGBoost Tuned Model**: Achieved the highest accuracy of 0.88 and an AUC score of 0.92.
-- **Random Forest Tuned Model**: Showcased robust performance with an AUC score of 0.95.
+- **Random Forest Tuned Model**: Showcased robust performance with a score of 0.85 across all metrics and an AUC score of 0.95.
 - **Feature Insights**: Identified 'Sex', 'Pclass', 'Fare', and 'Age Groups' as pivotal in determining survival, supported by EDA and historical accounts.
 
 ## **Conclusions and Future Work**
