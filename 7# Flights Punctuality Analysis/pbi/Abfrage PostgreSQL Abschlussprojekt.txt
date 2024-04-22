@@ -1,0 +1,27 @@
+SELECT 
+    flight_id,
+    fl_date,
+    op_carrier,
+    op_carrier_fl_num,
+    origin,
+    dest,
+    crs_dep_time,
+    dep_time,
+	dep_delay,
+    ABS(dep_delay) AS dep_delay_abs,
+    crs_arr_time,
+    arr_time,
+	arr_delay,
+    ABS(arr_delay) AS arr_delay_abs,
+    CASE WHEN cancelled = TRUE THEN 'Cancelled' ELSE 'Not cancelled' END AS cancelled,
+    cancellation_code,
+    CASE WHEN diverted = TRUE THEN 'Diverted' ELSE 'Not diverted' END AS diverted,
+	CASE WHEN origin = 'LAX' THEN 'Departure' ELSE 'Arrival' END AS flight_type,
+    CASE WHEN (dep_delay >= 5 OR arr_delay >= 5 OR dep_delay <= -5 OR arr_delay <= -5) THEN 'No' ELSE 'Yes' END AS on_time
+FROM flights
+WHERE 
+	origin = 'LAX' OR dest = 'LAX' 
+	AND fl_date BETWEEN '2015-01-01' AND '2017-12-31'
+	AND cancelled = FALSE
+	AND diverted = FALSE
+ORDER BY fl_date DESC
