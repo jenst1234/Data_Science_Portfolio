@@ -2,17 +2,17 @@
 
 <img src="./images/ecommerce.png" alt="Alt-Text" width="100%" height="300px" />
 
-[![Data-Science-Projects](https://img.shields.io/badge/Data_Science_Projects-GitHub_Page-%2300BFFF.svg)](https://jenst1234.github.io)
+[![Data-Science-Projects](https://img.shields.io/badge/Data_Science_Projects-GitHub_Page-%2300BFFF.svg)](https://jenst1234.github.io) [![Notebooks](https://img.shields.io/badge/Notebooks-View-Green.svg)](https://github.com/jenst1234/Data_Science_Portfolio/blob/main/2%23%20Product%20Delivery%20Prediction/notebooks/e_commerce.ipynb)
 
 ## **INTRODUCTION**
 
 ### **Objectives**
 
-The primary goal of this project is to develop a predictive model for an international e-commerce company to determine the timeliness of product deliveries. We aim to unravel the complex factors influencing delivery outcomes and gain a deeper understanding of customer behavior patterns. This project employs advanced machine learning techniques to derive actionable insights from a vast dataset of customer transactions, focusing on enhancing operational efficiency and customer satisfaction.
+The primary goal of this project was to develop a predictive model for an international e-commerce company to determine the timeliness of product deliveries. The goal was to unravel the complex factors influencing delivery outcomes and gain a deeper understanding of customer behavior patterns. This project employs advanced machine learning techniques to derive actionable insights from a vast dataset of customer transactions, focusing on enhancing operational efficiency and customer satisfaction.
 
 ### **Dataset**
 
-We utilized a dataset from Kaggle, which includes 10,999 observations across 12 variables, detailing customer purchases and delivery details:
+I utilized a dataset from [Kaggle](https://www.kaggle.com/datasets/prachi13/customer-analytics), which includes 10,999 observations across 12 variables, detailing customer purchases and delivery details:
 
 | Column               | Description                                                                           |
 |----------------------|---------------------------------------------------------------------------------------|

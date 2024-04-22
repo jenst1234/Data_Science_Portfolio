@@ -2,7 +2,7 @@
 
 <img src="./images/heart_disease.png" alt="Alt-Text" width="100%" height="400px" />
 
-[![Data-Science-Projects](https://img.shields.io/badge/Data_Science_Projects-GitHub_Page-%2300BFFF.svg)](https://jenst1234.github.io)
+[![Data-Science-Projects](https://img.shields.io/badge/Data_Science_Projects-GitHub_Page-%2300BFFF.svg)](https://jenst1234.github.io) [![Notebooks](https://img.shields.io/badge/Notebooks-View-Green.svg)](https://github.com/jenst1234/Data_Science_Portfolio/blob/main/4%23%20Heart%20Disease%20Prediction/notebooks/heart_disease_prediction.ipynb)
 
 ## **Introduction**
 
@@ -10,7 +10,7 @@ Heart disease is a leading global health concern. Early detection and risk asses
 
 ## **Data**
 
-The project utilizes a dataset from the UCI Machine Learning Repository (Cleveland database). This dataset contains information for 303 individuals, with 14 features encompassing:
+The project utilizes a dataset from the [UCI Machine Learning Repository (Cleveland database)](https://archive.ics.uci.edu/dataset/45/heart+disease). This dataset contains information for 303 individuals, with 14 features encompassing:
 
 - **Biometric data:** Age, blood pressure, cholesterol levels, resting heart rate
 - **Lifestyle factors:** Chest pain type
