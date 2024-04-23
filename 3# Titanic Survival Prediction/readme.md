@@ -2,7 +2,7 @@
 
 <img src="./images/titanic.png" alt="Alt-Text" width="100%" height="400px" />
 
-[![Data-Science-Projects](https://img.shields.io/badge/Data_Science_Projects-GitHub_Page-%2300BFFF.svg)](https://jenst1234.github.io) [![Notebooks](https://img.shields.io/badge/Notebooks-View-Green.svg)](https://github.com/jenst1234/Data_Science_Portfolio/blob/main/2%23%20Product%20Delivery%20Prediction/notebooks/e_commerce.ipynb)
+[![Data-Science-Projects](https://img.shields.io/badge/Data_Science_Projects-GitHub_Page-%2300BFFF.svg)](https://jenst1234.github.io/datascience-portfolio.github.io/index.html) [![Notebooks](https://img.shields.io/badge/Notebooks-View-Green.svg)](https://github.com/jenst1234/Data_Science_Portfolio/blob/main/2%23%20Product%20Delivery%20Prediction/notebooks/e_commerce.ipynb)
 
 
 ## **Project Background**
