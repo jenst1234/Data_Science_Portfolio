@@ -2,7 +2,7 @@
 
 <img src="./images/churn.png" alt="Alt-Text" width="100%" height="300px" />
 
-[![Data-Science-Projects](https://img.shields.io/badge/Data_Science_Projects-GitHub_Page-%2300BFFF.svg)](https://jenst1234.github.io) [![Notebooks](https://img.shields.io/badge/Notebooks-View-Green.svg)](https://github.com/jenst1234/Data_Science_Portfolio/blob/main/5%23%20Telco%20Churn%20Analysis/notebooks/telco_churn.ipynb)
+[![Data-Science-Projects](https://img.shields.io/badge/Data_Science_Projects-GitHub_Page-%2300BFFF.svg)](https://jenst1234.github.io/datascience-portfolio.github.io/index.html) [![Notebooks](https://img.shields.io/badge/Notebooks-View-Green.svg)](https://github.com/jenst1234/Data_Science_Portfolio/blob/main/5%23%20Telco%20Churn%20Analysis/notebooks/telco_churn.ipynb)
 
 This project aims to support Teleconfia's US market entry, specifically focusing on Florida, by leveraging customer churn prediction to optimize marketing efforts and reduce customer loss.
 
