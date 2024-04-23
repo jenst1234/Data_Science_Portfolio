@@ -50,7 +50,7 @@ Welcome to my Data Science Portfolio, a curated showcase of my journey and accom
 
 ## **CONCLUSION**
 
-Through these projects, I have not only honed my technical skills but also developed a keen analytical mindset that is critical in the field of data science. I am committed to continuous learning and applying my knowledge to tackle new challenges. Please visit my [GitHub Page](https://jenst1234.github.io) for more insights and detailed project descriptions.
+Through these projects, I have not only honed my technical skills but also developed a keen analytical mindset that is critical in the field of data science. I am committed to continuous learning and applying my knowledge to tackle new challenges. Please visit my [GitHub Page](https://jenst1234.github.io/datascience-portfolio.github.io/index.html) for more insights and detailed project descriptions.
 
 ## **Contacts**
 For any inquiries or collaboration requests, please reach out via email at [jens.tauscher1@gmail.com](mailto:jens.tauscher1@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/tauscher-jens/?locale=en_US).
